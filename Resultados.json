@@ -1,0 +1,32 @@
+[
+{
+  "id_encuentro": "66405c64def05cabe325c71e",
+  "resultado_local": 2,
+  "resultado_visitante": 1,
+  "ganador":"equipo local"
+},
+{
+  "id_encuentro": "615e998d409c0b0d21d3a357",
+  "resultado_local": 3,
+  "resultado_visitante": 2,
+  "ganador": "equipo local"
+},
+{
+  "id_encuentro": "615e998d409c0b0d21d3a358",
+  "resultado_local": 1,
+  "resultado_visitante": 4,
+  "ganador": "equipo visitante"
+},
+{
+  "id_encuentro": "615e998d409c0b0d21d3a359",
+  "resultado_local": 2,
+  "resultado_visitante": 4,
+  "ganador": "equipo visitante"
+},
+{
+  "id_encuentro": "615e998d409c0b0d21d3a35a",
+  "resultado_local": 0,
+  "resultado_visitante": 3,
+  "ganador": "equipo visitante"
+}
+]

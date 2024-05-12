@@ -1,0 +1,31 @@
+[{
+  "nombre": "Diego Sánchez",
+  "ubicacion": "Cancha",
+  "nacionalidad": "Colombiano",
+  "escuela": "Arbitraje Profesional"
+},
+{
+  "nombre": "Ana Jiménez",
+  "ubicacion": "Campo",
+  "nacionalidad": "Venezolano",
+  "escuela": "Asociación de Árbitros Nacional"
+},
+{
+  "nombre": "Carlos Rodríguez",
+  "ubicacion": "Mesa",
+  "nacionalidad": "Venezolano",
+  "escuela": "Colegio de Árbitros"
+},
+{
+  "nombre": "Marta Pérez",
+  "ubicacion": "Cancha",
+  "nacionalidad": "Colombiano",
+  "escuela": "Federación de Árbitros de Fútbol"
+},
+{
+  "nombre": "Juan Morales",
+  "ubicacion": "Campo",
+  "nacionalidad": "Argentino",
+  "escuela": "Instituto de Arbitraje Deportivo"
+}
+]

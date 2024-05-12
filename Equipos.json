@@ -1,0 +1,50 @@
+[
+  {
+    "nombre": "City Club",
+    "integrantes": 10,
+    "colorUniforme": "rojo",
+	"jugadores":[
+		"6640534ddef05cabe325c704",
+		"6640534ddef05cabe325c705"
+	]
+  },
+  {
+  "nombre": "Los Tigres",
+  "integrantes": 12,
+  "colorUniforme": "amarillo",
+  "jugadores": [
+    "615e998d409c0b0d21d3a357",
+    "615e998d409c0b0d21d3a358",
+    "615e998d409c0b0d21d3a359"
+  ]
+},
+{
+  "nombre": "Rangers FC",
+  "integrantes": 11,
+  "colorUniforme": "azul",
+  "jugadores": [
+    "615e998d409c0b0d21d3a35a",
+    "615e998d409c0b0d21d3a35b",
+    "615e998d409c0b0d21d3a35c"
+  ]
+},
+{
+  "nombre": "Golden Eagles",
+  "integrantes": 10,
+  "colorUniforme": "dorado",
+  "jugadores": [
+    "615e998d409c0b0d21d3a35d",
+    "615e998d409c0b0d21d3a35e"
+  ]
+},
+{
+  "nombre": "Thunderbolts",
+  "integrantes": 11,
+  "colorUniforme": "gris",
+  "jugadores": [
+    "615e998d409c0b0d21d3a35f",
+    "615e998d409c0b0d21d3a360",
+    "615e998d409c0b0d21d3a361"
+  ]
+}
+]

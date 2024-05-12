@@ -1,0 +1,31 @@
+[{
+  "equipo_local": "City Club",
+  "equipo_visitante": "Los tigres",
+  "fecha": "20/05/2024",
+  "cancha": "Cancha compartir"
+},
+{
+  "equipo_local": "Los Tigres",
+  "equipo_visitante": "Rangers FC",
+  "fecha": "20/05/2024",
+  "cancha": "olivos"
+},
+{
+  "equipo_local": "Golden Eagles",
+  "equipo_visitante": "Thunderbolts",
+  "fecha": "21/05/2024",
+  "cancha": "paraiso"
+},
+{
+  "equipo_local": "Fire Dragons",
+  "equipo_visitante": "City Club",
+  "fecha": "22/05/2024",
+  "cancha": "olimpica"
+},
+{
+  "equipo_local": "Rangers FC",
+  "equipo_visitante": "Golden Eagles",
+  "fecha": "23/05/2024",
+  "cancha": "llano grande"
+}
+]

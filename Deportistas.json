@@ -1,0 +1,31 @@
+[{
+  "nombre": "Alejandro Pineda",
+  "posicion": "Delantero",
+  "barrio": "Bosa",
+  "edad": 22
+},
+{
+  "nombre": "Javier García",
+  "posicion": "Defensa",
+  "barrio": "Suba",
+  "edad": 24
+},
+{
+  "nombre": "Andrés Gómez",
+  "posicion": "Delantero",
+  "barrio": "Engativa",
+  "edad": 26
+},
+{
+  "nombre": "David Martínez",
+  "posicion": "Centrocampista",
+  "barrio": "Usme",
+  "edad": 29
+},
+{
+  "nombre": "Luis Rodríguez",
+  "posicion": "Portero",
+  "barrio": "Fontibón",
+  "edad": 31
+}
+]
